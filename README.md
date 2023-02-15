@@ -25,6 +25,7 @@ To use this project, start by typing "npm start" into the terminal. A message in
 Example gif is listed below:
 
 ![Example](images/example.gif)
+Link to video demonstration: https://drive.google.com/file/d/1tkxeaTSQzcjK2dCSqJMjiTQfOdkdZ9RJ/view
 
 ## Credits
 
